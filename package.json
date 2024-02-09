@@ -25,7 +25,7 @@
     "flywaydb-cli",
     "database-migrations"
   ],
-  "author": "Sean Graham",
+  "author": "Cory Seaman",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/jitterbox/flywaydb-cli/issues"
