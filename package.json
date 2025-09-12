@@ -1,6 +1,6 @@
 {
   "name": "@jitterbox/flywaydb-cli",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Install latest flywaydb-cli as a node module (forked from github.com/sgraham785/flywaydb-cli)",
   "main": "dist/installer.js",
   "bin": {
